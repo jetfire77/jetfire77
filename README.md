@@ -12,7 +12,7 @@ Want to know more about me? [Check out my Linkedin.](https://www.linkedin.com/in
 ## 💼 Skills
 
 <p align="left">
-<a href="[https://isocpp.org/](https://www.learn-c.org/)" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="36" height="36" alt="cpp" /></a>
+<a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="36" height="36" alt="cpp" /></a>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="36" height="36" alt="cpp" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTHPiu8yEcd-jZbz8HJAf5lWc3FxJpSmdpiA&usqp=CAU" width="36" height="36" alt="Java" /></a>
