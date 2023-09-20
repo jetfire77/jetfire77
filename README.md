@@ -12,6 +12,7 @@ Want to know more about me? [Check out my Linkedin.](https://www.linkedin.com/in
 ## 💼 Skills
 
 <p align="left">
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AC_Logo.png&psig=AOvVaw1Hx4YIDtmNQNv0gngPRl9m&ust=1695329875926000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCax4mKuoEDFQAAAAAdAAAAABAE" width="36" height="36" alt="cpp" /></a>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="36" height="36" alt="cpp" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
