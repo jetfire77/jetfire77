@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./GitHubHeader.png)](<[https://yashfalke77.github.io/Portfolio-Website/]()>)
+
 
 [![Visits Badge](https://badges.pufler.dev/visits/jetfire77/jetfire77)](https://github.com/jetfire77)
 
