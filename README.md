@@ -1,7 +1,6 @@
 
 
 [![Visits Badge](https://badges.pufler.dev/visits/jetfire77/jetfire77)](https://github.com/jetfire77)
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/tanuj-kumar-33b574216?trk=contact-info)
 
 Hey there 👋
@@ -13,7 +12,7 @@ Want to know more about me? [Check out my Linkedin.](https://www.linkedin.com/in
 ## 💼 Skills
 
 <p align="left">
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cpp-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c++-colored.svg" width="36" height="36" alt="cpp" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 
