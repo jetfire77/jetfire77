@@ -1,7 +1,7 @@
 
 
-<!---   ![](https://komarev.com/ghpvc/?username=jetfire77)  -->
- [(https://komarev.com/ghpvc/?username=jetfire77) 
+<!---   [![Visits Badge](https://badges.pufler.dev/visits/jetfire77/jetfire77)](https://github.com/jetfire77)  -->More actions
+ [![Visits Badge](https://badges.pufler.dev/visits/jetfire77/jetfire77)](https://github.com/jetfire77) 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/tanuj-kumar-33b574216?trk=contact-info)
 
 Hey there 👋
